@@ -182,7 +182,7 @@ int main()
         cout<<"Match completed, its a draw"<<endl;
         cout<<score[0]<<endl;
     }
-    file<<"End of Match"<<endl<<endl;
+    file<<"End !!! see you tommorow"<<endl<<endl;
     file.close();
 
     
